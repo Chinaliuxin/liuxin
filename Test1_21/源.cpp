@@ -132,6 +132,7 @@ void test2() {
 	int* ptr = (int*)(&abb + 1);
 	printf(" %d %d",*(abb+1) ,*(ptr ));
 }
+#if 0
 int main()
 {
 	Base1 b;
@@ -186,5 +187,5 @@ int main()
  	return 0;
 
 }
-
+#endif
 //虚表是一个数组，
