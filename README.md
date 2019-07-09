@@ -1,6 +1,6 @@
 # liuxin
 
-```mermaid
+```
 gantt
 title 企业人力资源项目模块管理
 dateFormat  YYYY-MM-DD
